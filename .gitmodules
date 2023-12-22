@@ -12,7 +12,7 @@
 	url = https://github.com/PrismLauncher/libnbtplusplus.git
 [submodule "libraries/zlib"]
 	path = libraries/zlib
-	url = https://github.com/madler/zlib.git
+	url = https://github.com/zlib-ng/zlib-ng
 [submodule "libraries/extra-cmake-modules"]
 	path = libraries/extra-cmake-modules
 	url = https://github.com/KDE/extra-cmake-modules

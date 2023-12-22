@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.15)  # minimum version required by QuaZip
+cmake_minimum_required(VERSION 3.26)
 
 project(Launcher)
 
